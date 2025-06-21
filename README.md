@@ -92,7 +92,7 @@ emotion_classification_project/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
+    git clone <(https://github.com/VK180/Speech-Emotion-Classification)>
     cd emotion_classification_project
     ```
 
