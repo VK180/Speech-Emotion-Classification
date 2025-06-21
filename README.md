@@ -138,4 +138,10 @@ The web app provides an interactive interface to test the model.
 2.  **Use the app:**
     - Open the local URL provided by Streamlit in your browser.
     - Click "Browse files" to upload a `.wav` file.
-    - The app will display the predicted emotion for the uploaded audio. 
+    - The app will display the predicted emotion for the uploaded audio.
+
+
+## Live Demo
+The application is also deployed on Streamlit Community Cloud and is publicly accessible. You can try it live here:
+- **[Launch the Live App](https://speech-emotion-classification-xeytnc98ehdbmlxt4vaqor.streamlit.app/)**
+
