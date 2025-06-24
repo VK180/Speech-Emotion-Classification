@@ -67,7 +67,7 @@ The model was compiled with the `adam` optimizer and `categorical_crossentropy` 
 The model was evaluated on the validation set, achieving the following performance, which meets the project's success criteria:
 - **Overall Accuracy**: **87.2%**
 - **Macro F1 Score**: **0.87**
-- **Per-Class F1 Scores**: All classes achieved an F1 score above 80%, indicating balanced performance across all emotions.
+- **Per-Class Recall**: All classes achieved a Recall above 80%, indicating balanced performance across all emotions.
 
 A confusion matrix was also generated to visualize the model's performance on a per-class basis.
 
