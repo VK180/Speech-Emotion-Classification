@@ -1,6 +1,6 @@
 # Speech Emotion Classification
 
-This project is an end-to-end pipeline for classifying emotions from speech audio data using deep learning. The system processes raw audio files, extracts comprehensive features, and uses a trained Artificial Neural Network (ANN) to predict one of eight emotional states: neutral, calm, happy, sad, angry, fearful, disgust, and surprise.
+This project is an end-to-end pipeline for classifying emotions from speech audio data using deep learning. The system processes raw audio files, extracts comprehensive features, and uses a trained Artificial Neural Network (ANN) to predict one of eight emotional states: neutral, calm, happy, sad, angry, fearful, disgust, and surprised.
 
 The project includes a Jupyter notebook with the full development process, a trained model, an inference script for single or batch predictions, and a Streamlit web application for interactive use.
 
